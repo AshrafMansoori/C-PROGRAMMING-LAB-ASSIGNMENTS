@@ -1,6 +1,11 @@
 # String Utility Toolkit
 
+
 This C program implements a simple string utility toolkit with menu-driven functionality. It allows the user to enter a string and perform several operations such as measuring length, reversing the string, checking for palindrome, counting vowels, digits, spaces, and displaying character frequency.
+
+#Output
+<img width="1046" height="800" alt="Screenshot 2026-07-19 194457" src="https://github.com/user-attachments/assets/561bca66-270c-4251-a645-c454fa905bc2" />
+
 
 ## Features
 
