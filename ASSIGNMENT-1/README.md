@@ -1,0 +1,34 @@
+# Assignment 1: Student Marks Analyzer
+
+## Description
+A menu-driven C program that manages and analyzes student marks. This application provides a comprehensive system to handle student data with operations for storing, retrieving, analyzing, and manipulating student marks.
+
+## Features
+- **Enter Marks** - Input marks for multiple students
+- **Display Marks** - View all stored student marks
+- **Highest Marks** - Find the maximum marks among all students
+- **Lowest Marks** - Find the minimum marks among all students
+- **Total Marks** - Calculate the sum of all marks
+- **Average Marks** - Calculate the average marks of all students
+- **Search Marks** - Search for specific marks in the records
+- **Sort Marks** - Sort marks in ascending order using bubble sort
+
+## Files
+- `ASSIGNMENT.C` - Main C source code for the assignment
+
+## How to Compile
+```bash
+gcc ASSIGNMENT.C -o assignment
+```
+
+## How to Run
+```bash
+./assignment
+```
+
+## Requirements
+- GCC compiler
+- C standard library
+
+## Notes
+Add your assignment details and notes here.
