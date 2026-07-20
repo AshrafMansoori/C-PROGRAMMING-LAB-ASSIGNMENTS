@@ -110,7 +110,7 @@ void sortMarks() {
 
 int main() {
 
-    int choice;
+    int choice, result;
     n = 0;
 
     do {
@@ -126,7 +126,14 @@ int main() {
         printf("9. Exit\n");
 
         printf("Enter your choice: ");
-        scanf("%d", &choice);
+        result = scanf("%d", &choice);
+        
+        // Clear buffer if scanf failed
+        if(result != 1) {
+            while(getchar() != '\n');
+            printf("Invalid input! Please enter a number.\n");
+            continue;
+        }
 
         switch(choice) {
 

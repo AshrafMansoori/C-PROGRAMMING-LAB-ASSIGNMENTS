@@ -30,5 +30,13 @@ gcc ASSIGNMENT.C -o assignment
 - GCC compiler
 - C standard library
 
+## Sample Output
+![Program Output](output.png)
+
+The program displays an interactive menu where users can:
+- Input student marks
+- View all marks in a formatted list
+- Perform various analyses on the marks
+
 ## Notes
 Add your assignment details and notes here.
