@@ -30,8 +30,9 @@ gcc ASSIGNMENT.C -o assignment
 - GCC compiler
 - C standard library
 
-## Sample Output
-![Program Output](output.png)
+##  Output
+<img width="1092" height="855" alt="image" src="https://github.com/user-attachments/assets/1515e7aa-1747-4fb7-91f5-c7d7cff7fc13" />
+
 
 The program displays an interactive menu where users can:
 - Input student marks
