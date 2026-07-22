@@ -1,0 +1,18 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+
+# Debug files
+*.dSYM/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
